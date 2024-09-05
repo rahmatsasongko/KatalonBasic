@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register 1 The specified email already exists</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9174293d-0bbd-4f6c-a421-c3244d679e5e</testCaseGuid>
+</TestCaseEntity>
